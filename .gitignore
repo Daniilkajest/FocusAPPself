@@ -1,0 +1,16 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы сборки PyInstaller
+build/
+dist/
+*.spec
+
+# Системные файлы
+.DS_Store
+
